@@ -26,4 +26,3 @@ def plot_scree(explained_variance_ratio):
     plt.legend()
     plt.savefig('scree_plot.png', dpi=150, bbox_inches='tight')
     plt.show()
-
