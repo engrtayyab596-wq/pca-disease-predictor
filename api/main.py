@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from src.predict import load_model, predict as run_prediction
-import numpy as np
+
 
 app = FastAPI(title='Disease Risk Predictor')
 model = load_model()
