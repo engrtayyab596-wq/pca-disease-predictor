@@ -26,3 +26,4 @@ def train_model(pipeline, X_train, y_train):
 def save_model(pipeline, path='models/pipeline.pkl'):
     joblib.dump(pipeline, path)
     print(f"Model saved to {path}")
+    

@@ -79,7 +79,7 @@ predictive power.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pca-disease-predictor.git
+git clone https://github.com/engrtayyab596-wq/pca-disease-predictor.git
 cd pca-disease-predictor
 ```
 
